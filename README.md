@@ -1,4 +1,4 @@
-# Rubick-cube
+# Rubik's-cube
 Program to solve a rubik's cube optimally
 <br>
 # Contributors:<br>
