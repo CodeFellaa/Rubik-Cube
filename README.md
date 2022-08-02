@@ -1,5 +1,5 @@
 # Rubick-cube
-Program to solve a rubicks cube optimally
+Program to solve a rubik's cube optimally
 <br>
 # Contributors:<br>
 1.<a href= "https://github.com/Bharat-mtr" > Bharat Bansal</a><br>
